@@ -149,16 +149,16 @@ Lastly, a Client Server & Middleware architecture was employed to simulate the r
 ## Testing Results
 
 <h4>Subscribe</h3>
-<img src="lib/src/assets/Subscribe.JPG"/>
+<img src="src/assets/Subscribe.JPG"/>
 <br/>
 <h4>Unsubscribe</h3>
-<img src="lib/src/assets/Unsubscribe.JPG"/>
+<img src="src/assets/Unsubscribe.JPG"/>
 <br/>
 <h4>Hash Tag Query</h3>
-<img src="lib/src/assets/Hash Tag Query.JPG"/>
+<img src="src/assets/Hash Tag Query.JPG"/>
 <br/>
 <h4>Mention Query</h3>
-<img src="lib/src/assets/Mention Query.JPG"/>
+<img src="src/assets/Mention Query.JPG"/>
 <br/>
 
 ### Results of Simulations
@@ -166,22 +166,22 @@ Lastly, a Client Server & Middleware architecture was employed to simulate the r
 
 <h4>Simulation - 20 Users</h3>
 <br/>
-<img src="lib/src/assets/Simulate 20.JPG"/>
+<img src="src/assets/Simulate 20.JPG"/>
 <br/>
 <br/>
 <h4>Simulation - 60 Users</h3>
 <br/>
-<img src="lib/src/assets/Simulate 60.JPG"/>
+<img src="src/assets/Simulate 60.JPG"/>
 <br/>
 <br/>
 <h4>Simulation - 80 Users</h3>
 <br/>
-<img src="lib/src/assets/Simulate 80.JPG"/>
+<img src="src/assets/Simulate 80.JPG"/>
 <br/>
 <br/>
 <h4>Activity Stats</h3>
 <br/>
-<img src="lib/src/assets/Activity Stats.JPG"/>
+<img src="src/assets/Activity Stats.JPG"/>
 <br/>
 <i>Note: The System is capable of simulating 150 users and more but since this activity results in very high communication delays, we have included results for up to 80 users.<i/>
 
